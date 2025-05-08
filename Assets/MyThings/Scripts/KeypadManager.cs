@@ -43,7 +43,7 @@ public class KeypadManager : MonoBehaviour
     {
         if (objectToUnlock != null)
         {
-            Debug.Log("done");
+            objectToUnlock.SetActive (true);
         }
     }
 }
