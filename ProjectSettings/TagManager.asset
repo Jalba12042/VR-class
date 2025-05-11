@@ -9,6 +9,9 @@ TagManager:
   - Enemy
   - Kettlebell
   - Key
+  - Mug
+  - Fish
+  - Pen
   layers:
   - Default
   - TransparentFX
